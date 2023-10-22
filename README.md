@@ -6,7 +6,7 @@ I somehow messed it up
 
 You can find the configs in the branch "master" 
 
-to implement this config 
+to implement this config (if any problem arises you can just use this config as a reference)
 
 If you already have neovim then you'd have this .config directory in your home navigate there 
 
