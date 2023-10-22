@@ -38,16 +38,28 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 plugins used -
 
 -> packer.nvim
+
 -> telescope.nvim 
+
 -> nvim-tree
+
 -> nvim-treesitter
+
 -> lualine.nvim
+
 -> nvim-autopairs
+
 -> coc.nvim
+
 -> alpha-nvim
+
 -> circles.nvim
+
 -> tmux.nvim
+
 -> oxocarbon.nvim 
+
 -> indent-blankline.nvim
+
 -> Comment.nvim
 -> bufferline.nvim 
